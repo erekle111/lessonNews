@@ -1,0 +1,30 @@
+h1{
+    background-color:aquamarine;
+    color:black;
+    text-align: start;
+    text-shadow: royalblue;
+    size: 15px;
+
+}
+
+p{
+    
+    font: bold;
+    color:black;
+    size: 20px;
+    font-style: italic;
+    
+}
+
+li{
+    display: inline;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+}
+
+a{
+    padding: 10px;
+    
+}
